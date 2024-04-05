@@ -1,0 +1,4 @@
+ERRORInvalidParameterException : 0		null	null	80.0
+ERRORInvalidAmountException : 1		4567	null	0.0
+ERRORInvalidAmountException : 3		null	4567	40000.0
+ERRORInvalidAmountException : 3		null	4567	8000000.0
